@@ -8,6 +8,6 @@
 
 ## 💻 **Languages Learning.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=famouskaykay&custom_title=Languages%20Im%20learning%20:3&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehamkercat&custom_title=Languages%20Im%20learning%20:3&theme=tokyonight&hide_border=true)
 
 [famouskaykay](https://famouskaykay.github.io/time)
