@@ -1,9 +1,8 @@
-### Hi There, I'm kevin, A 19 Y.O. Programmer From kenya and dubai .
+# Hi There, I'm kevin, A 19 Y.O. Programmer From kenya and dubai .
 
-<!--
 - 🔭 I’m currently working on a virtual girlfriend
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact i use arch linux 😂
+
 ## ✍️ **kaykays Github Stats**
 ![famouskaykay github stats](https://github-readme-stats.vercel.app/api?username=famouskaykay&show_icons=true&theme=tokyonight)
 
@@ -11,4 +10,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlaaf&custom_title=Languages%20I%20learning%20:3&theme=tokyonight&hide_border=true)
 
-[Page famouskaykay](https://famouskaykay.github.io/time)
+[famouskaykay](https://famouskaykay.github.io/time)
