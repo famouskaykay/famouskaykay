@@ -1,4 +1,4 @@
- Hi There, I'm kevin, A 19 Y.O. Programmer From kenya.
+ Hi There, I'm kevin, A 19 Y.O. Programmer From kenya living in Dubai
 
 - 🔭 I’m currently working on a virtual girlfriend
 - ⚡ Fun fact i use arch linux 😂
